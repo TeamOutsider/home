@@ -1,0 +1,78 @@
+.mediaViewInfo {
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Web_1920__1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Web_1920__1 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(0,0,0,1);
+  overflow: hidden;
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#Projects {
+  left: 830px;
+  top: 180px;
+  position: absolute;
+  overflow: visible;
+  width: 261px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cuprum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 85px;
+  color: rgba(255,255,255,1);
+  text-decoration: underline;
+}
+#logo {
+  position: absolute;
+  width: 512px;
+  height: 512px;
+  left: 704px;
+  top: 284px;
+  overflow: visible;
+}
+#Project_Outsider {
+  left: 806px;
+  top: 802px;
+  position: absolute;
+  overflow: visible;
+  width: 309px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cuprum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  color: rgba(255,255,255,1);
+  text-decoration: underline;
+}
+#Genres_Horror_Thriller_Length_ {
+  left: 825px;
+  top: 880px;
+  position: absolute;
+  overflow: visible;
+  width: 271px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Cuprum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}

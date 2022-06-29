@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.navbar {
+  overflow: hidden;
+  background-color: #4D4D4D;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  display: inline-block;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  display: block;
+  color: rgba(125,11,0,1);
+  text-align: center;
+  margin-right: 20px;
+  margin-left: 159px;
+  padding: 14px 16px;
+  font-size: 32px
+}
+
+a:hover {
+  color: rgb(178, 15, 0);
+}
+
+.logo {
+  display: inline-block;
+  vertical-align: top;
+  width: 250px;
+  margin-left: 20px;
+}
+
+.img {
+  transform: translate(-50%, -50%);
+  top: 35%;
+  left: 50%;
+  width: 500px;
+  position: fixed;
+  animation: fadeIn 5s;
+}
+
+.box {
+  background: #6C6C6CF7;
+  width: 981px;
+  height: 242px;
+  position: fixed;
+  top: 80%;
+  left: 50%;
+  border-radius: 15px; 
+  transform: translate(-50%, -50%);
+  animation: fadeIn 2s;
+}
+
+.text {
+  width: 930px;
+  color: rgba(255,255,255,1);
+  position: fixed;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: ABeeZee;
+  font-weight: Regular;
+  font-size: 21px;
+  opacity: 1;
+  text-align: center;
+  animation: fadeIn 2s;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }

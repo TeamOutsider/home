@@ -1,0 +1,105 @@
+.mediaViewInfo {
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Web_1920__1;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+#Web_1920__1 {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(0,0,0,1);
+  overflow: hidden;
+  --web-view-name: Web 1920 – 1;
+  --web-view-id: Web_1920__1;
+  --web-scale-on-resize: true;
+  --web-enable-deep-linking: true;
+}
+#logo {
+  position: absolute;
+  width: 302px;
+  height: 302px;
+  left: 153px;
+  top: 54px;
+  overflow: visible;
+}
+#Project_Outsider {
+  left: 485px;
+  top: 142px;
+  position: absolute;
+  overflow: visible;
+  width: 308px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Cuprum;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  color: rgba(255,255,255,1);
+  text-decoration: underline;
+}
+#TEAM_Outsider_Team_RELEASE_DAT {
+  left: 485px;
+  top: 205px;
+  position: absolute;
+  overflow: visible;
+  width: 258px;
+  white-space: nowrap;
+  line-height: 40px;
+  margin-top: -5px;
+  text-align: left;
+  font-family: 'Abel';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgba(255,255,255,1);
+}
+#screenshot0001 {
+  position: absolute;
+  width: 392px;
+  height: 221px;
+  left: 191px;
+  top: 430px;
+  overflow: visible;
+}
+#skele1 {
+  position: absolute;
+  width: 392px;
+  height: 221px;
+  left: 727px;
+  top: 429.5px;
+  overflow: visible;
+}
+#warning2 {
+  position: absolute;
+  width: 392px;
+  height: 221px;
+  left: 1263px;
+  top: 430px;
+  overflow: visible;
+}
+#Brought_to_a_mysterious_island {
+  left: 191px;
+  top: 751px;
+  position: absolute;
+  overflow: visible;
+  width: 1539px;
+  white-space: nowrap;
+  line-height: 40px;
+  margin-top: -6.5px;
+  text-align: left;
+  font-family: 'Abel';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  color: rgba(255,255,255,1);
+}
