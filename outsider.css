@@ -2,6 +2,16 @@
   box-sizing: border-box;
 }
 
+@font-face {
+   font-family: Cuprum;
+   src: url(Cuprum-Regular.woff);
+}
+
+@font-face {
+   font-family: Abel;
+   src: url(Abel-Regular.woff);
+}
+
 #logo {
   position: absolute;
   width: 302px;
@@ -35,7 +45,7 @@
   line-height: 40px;
   margin-top: -5px;
   text-align: left;
-  font-family: 'Abel';
+  font-family: Abel;
   font-style: normal;
   font-weight: bold;
   font-size: 30px;
@@ -75,7 +85,7 @@
   line-height: 40px;
   margin-top: -6.5px;
   text-align: left;
-  font-family: 'Abel';
+  font-family: Abel;
   font-style: normal;
   font-weight: normal;
   font-size: 27px;
