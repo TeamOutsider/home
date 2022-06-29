@@ -3,8 +3,8 @@
 }
 
 #Projects {
-  left: 75px;
-  top: 65px;
+  left: 830px;
+  top: 180px;
   position: absolute;
   overflow: visible;
   width: 261px;
@@ -21,13 +21,13 @@
   position: absolute;
   width: 512px;
   height: 512px;
-  left: 72px;
-  top: 75px;
+  left: 704px;
+  top: 284px;
   overflow: visible;
 }
 #Project_Outsider {
-  left: 50px;
-  top: 45px;
+  left: 806px;
+  top: 802px;
   position: absolute;
   overflow: visible;
   width: 100px;
@@ -41,11 +41,11 @@
   text-decoration: underline;
 }
 #Genres_Horror_Thriller_Length_ {
-  left: 35px;
-  top: 45px;
+  left: 825px;
+  top: 880px;
   position: absolute;
   overflow: visible;
-  width: 100px;
+  width: 271px;
   white-space: nowrap;
   text-align: center;
   font-family: Cuprum;
