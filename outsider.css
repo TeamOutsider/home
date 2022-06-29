@@ -2,11 +2,6 @@
   box-sizing: border-box;
 }
 
-#Web_1920__1 {
-  position: absolute;
-  background-color: rgba(0,0,0,1);
-  overflow: hidden;
-}
 #logo {
   position: absolute;
   width: 302px;

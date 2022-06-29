@@ -2,13 +2,6 @@
   box-sizing: border-box;
 }
 
-#Web_1920__1 {
-  position: absolute;
-  background-color: rgba(0,0,0,1);
-  overflow: hidden;
-
-}
-
 #Projects {
   left: 75px;
   top: 65px;
