@@ -2,6 +2,16 @@
   box-sizing: border-box;
 }
 
+@font-face {
+   font-family: Cuprum;
+   src: url(Cuprum-Regular.woff);
+}
+
+@font-face {
+   font-family: Abel;
+   src: url(Abel-Regular.woff);
+}
+
 #logo {
   position: absolute;
   width: 302px;
