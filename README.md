@@ -1,5 +1,5 @@
-# Team Outsider website code
+# Team Outsider Website
 
-Currently a spaghetti-coded mess.
+> Currently built with HTML and CSS.
 
-It just works™
+It's a spaghetti-coded mess.
